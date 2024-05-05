@@ -1,5 +1,6 @@
 *{
     font-family: "Helvetica Neue";
+    background-color: #f7f7f7;
 }
 
 .navbar-custom{
@@ -17,13 +18,12 @@
     font-family: "Helvetica Neue";
     font-weight: 600;
 }
-.header {
-    background-color: #003e29;
-    color: ffffff;
+.header3 {
+    color: #003e29;
   }
 
 .header2 {
-    background-color: #ffffff;
+    background-color: #f7f7f7;
     color: #003e29;
 }
 
@@ -34,4 +34,10 @@
 h1{
     color: #003e29;
     font-weight: bolder;
+}
+
+h3{
+    color: #003e29;
+    font-weight: 100;
+
 }
