@@ -31,6 +31,10 @@
     background-color: #f7f7f7;
 }
 
+.navbar-toggler {
+    border:0px;
+}
+  
 h1{
     color: #003e29;
     font-weight: bolder;
